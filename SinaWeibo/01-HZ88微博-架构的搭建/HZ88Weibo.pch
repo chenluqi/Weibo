@@ -1,0 +1,17 @@
+//
+//  HZ88Weibo.pch
+//  01-HZ88微博-架构的搭建
+//
+//  Created by kangkathy on 16/5/9.
+//  Copyright © 2016年 kangkathy. All rights reserved.
+//
+
+#ifndef HZ88Weibo_pch
+#define HZ88Weibo_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "Common.h"
+#import "UIViewExt.h"
+
+#endif /* HZ88Weibo_pch */
